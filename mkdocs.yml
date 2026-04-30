@@ -1,0 +1,5 @@
+site_name: Platform Demo Backend
+site_description: FastAPI REST API — GCP Serverless Platform
+docs_dir: docs
+plugins:
+  - techdocs-core
